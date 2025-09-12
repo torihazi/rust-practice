@@ -148,6 +148,10 @@ name = "knock07"
 version = "0.1.0"
 
 [[package]]
+name = "knock08"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
 version = "0.2.175"
 source = "registry+https://github.com/rust-lang/crates.io-index"
