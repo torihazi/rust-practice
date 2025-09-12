@@ -1,4 +1,4 @@
 [workspace]
 members = [
-    "knock01", "knock02", "knock03", "knock04", "knock05", "knock06",
+    "knock01", "knock02", "knock03", "knock04", "knock05", "knock06", "knock07",
 ]
