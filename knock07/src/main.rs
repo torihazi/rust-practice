@@ -1,3 +1,7 @@
+use std::env;
+
 fn main() {
-    println!("Hello, world!");
+    // 文字列の長さを数える
+    let args: Vec<String> = env::args().collect();
+    println!("文字列の長さ : {}", args[1].len());
 }
