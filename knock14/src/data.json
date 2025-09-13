@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "Kiwi",
+    "Id": 3,
+    "ItemIdList": [
+      2000,
+      2001
+    ],
+    "RotData": {
+      "Pitch": 0.0,
+      "Roll": 0.0,
+      "Yaw": 0.0
+    }
+  },
+  {
+    "Name": "Orange",
+    "Id": 4,
+    "ItemIdList": [
+      2002,
+      2003
+    ],
+    "RotData": {
+      "Pitch": 1.0,
+      "Roll": 50.2,
+      "Yaw": 66.5
+    }
+  }
+]
+
