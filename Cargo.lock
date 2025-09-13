@@ -335,6 +335,9 @@ dependencies = [
 [[package]]
 name = "knock18"
 version = "0.1.0"
+dependencies = [
+ "rand",
+]
 
 [[package]]
 name = "libc"
